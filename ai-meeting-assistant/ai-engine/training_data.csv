@@ -1,0 +1,159 @@
+sentence,label
+"Maya will send the revised agenda to everyone by noon.",TASK
+"Assign the database migration to Jordan before Thursday.",TASK
+"I will prepare the customer metrics for next week's review.",TASK
+"Please book a room for the planning session.",TASK
+"Ravi needs to update the onboarding checklist today.",TASK
+"Let's ask Priya to confirm the vendor delivery date.",TASK
+"The design team will share final mockups on Monday.",TASK
+"Could you upload the notes to the project folder after this call?",TASK
+"Sam is responsible for testing the new sign-in flow.",TASK
+"We need to send the budget draft to Finance this afternoon.",TASK
+"Follow up with the clinic about the access review next week.",TASK
+"I can draft a short release announcement before launch.",TASK
+"Nina will collect feedback from the support team.",TASK
+"Please check whether the staging environment is available tomorrow.",TASK
+"Omar should add the missing labels to the dashboard tickets.",TASK
+"Let's schedule a checkpoint with the regional leads.",TASK
+"The operations group must publish the updated runbook by Friday.",TASK
+"I'll verify the invoice totals and report any mismatch.",TASK
+"Can Lee call the supplier and confirm the revised quote?",TASK
+"We should document the rollback steps in the deployment guide.",TASK
+"Avery will share the accessibility audit with the product group.",TASK
+"Please move the archived files into the retention folder.",TASK
+"The team needs to rehearse the demo before the client visit.",TASK
+"I will compare the two shipping estimates this evening.",TASK
+"Ask the data team to refresh the sample export before Wednesday.",TASK
+"Morgan agreed to check the mobile layout on older devices.",TASK
+"Let's send a reminder about the security questionnaire.",TASK
+"The account owner should add a recovery contact by month end.",TASK
+"Please summarize the open defects for the morning handoff.",TASK
+"I'll reserve time to review the contract amendments.",TASK
+"The launch checklist needs an owner for every remaining item.",TASK
+"Would you test the password reset flow on Android?",TASK
+"We have to notify the branches about the revised hours.",TASK
+"Devon will coordinate the pilot interviews.",TASK
+"Please archive the old campaign assets after approval.",TASK
+"I can bring the printed vendor comparison to the meeting.",TASK
+"Let's ask Engineering to estimate the retry change.",TASK
+"The compliance analyst will validate the retention report.",TASK
+"Could someone update the handoff calendar with the new dates?",TASK
+"Write down the escalation contact for weekend coverage.",TASK
+"We agreed to keep the existing approval workflow for this quarter.",DECISION
+"The group chose the annual plan over monthly billing.",DECISION
+"After review, we will launch in two regions first.",DECISION
+"The final selection is option C because it meets the capacity target.",DECISION
+"We decided not to migrate the legacy archive this month.",DECISION
+"The team approved a six week pilot with the current vendor.",DECISION
+"Let's use the shared calendar as the source of truth.",DECISION
+"The committee settled on Tuesday for the public release.",DECISION
+"We will keep the existing login method until the audit is complete.",DECISION
+"The budget request was declined at today's review.",DECISION
+"Everyone accepted the revised escalation threshold.",DECISION
+"We chose to postpone the rollout until the accessibility review passes.",DECISION
+"The default region will remain North America.",DECISION
+"The steering group approved the smaller scope for phase one.",DECISION
+"We are going with a single combined training session.",DECISION
+"The team ruled out a weekend deployment.",DECISION
+"The new contract will begin on the first of July.",DECISION
+"We will measure the pilot using completed applications.",DECISION
+"The reviewers agreed to remove the optional export step.",DECISION
+"The support queue will stay with the existing team.",DECISION
+"Leadership selected the lower cost proposal.",DECISION
+"We settled on a monthly check in rather than a weekly one.",DECISION
+"The group approved read only access for external auditors.",DECISION
+"We will pause new signups while the incident is investigated.",DECISION
+"The final policy keeps manager approval for exceptions.",DECISION
+"The team chose the simpler design for this release.",DECISION
+"The product will remain available during the maintenance window.",DECISION
+"We agreed to fund the translation work from the research budget.",DECISION
+"The review concluded that no policy change is needed.",DECISION
+"The client accepted the revised delivery schedule.",DECISION
+"We picked the downtown office for the workshop.",DECISION
+"The board voted to renew the service for one year.",DECISION
+"The team will use the existing test environment for the pilot.",DECISION
+"We decided to publish the summary without individual names.",DECISION
+"The revised proposal is approved as written.",DECISION
+"Let's go with the smaller batch size for now.",DECISION
+"The group confirmed that the old endpoint will be retired in August.",DECISION
+"We chose to keep both support channels during the transition.",DECISION
+"The change request was deferred until next quarter.",DECISION
+"I suggest adding a short FAQ to the welcome email.",SUGGESTION
+"We could test the new form with a small volunteer group.",SUGGESTION
+"Perhaps the report would be clearer with a weekly trend line.",SUGGESTION
+"One option is to offer a callback instead of a long hold.",SUGGESTION
+"It may help to include examples in the setup guide.",SUGGESTION
+"Could we consider moving the review earlier in the week?",SUGGESTION
+"My recommendation is to keep the pilot limited to existing customers.",SUGGESTION
+"Maybe a second reminder would reduce missed appointments.",SUGGESTION
+"We might add a note explaining how the score is calculated.",SUGGESTION
+"I would propose a brief trial before changing the default.",SUGGESTION
+"It could be useful to gather comments from night shift staff.",SUGGESTION
+"Why not show the renewal date beside the account name?",SUGGESTION
+"An alternative would be to send the summary as a plain text file.",SUGGESTION
+"We should consider a softer tone for the decline message.",SUGGESTION
+"Perhaps adding a checkpoint halfway through would catch delays.",SUGGESTION
+"I recommend comparing the regional results separately.",SUGGESTION
+"Would it make sense to include contractors in the training?",SUGGESTION
+"A small pilot might reveal issues before wider release.",SUGGESTION
+"Maybe we can reduce the number of required fields.",SUGGESTION
+"One idea is to let users save a draft and return later.",SUGGESTION
+"It may be worth checking the wording with the legal team.",SUGGESTION
+"Could a color key make the chart easier to scan?",SUGGESTION
+"I suggest keeping a paper backup during the first week.",SUGGESTION
+"We could invite one customer to review the prototype.",SUGGESTION
+"An optional caption might clarify the image for screen readers.",SUGGESTION
+"Perhaps we should compare the weekday and weekend demand.",SUGGESTION
+"My suggestion is to separate urgent requests from routine ones.",SUGGESTION
+"Maybe a shorter subject line would improve readability.",SUGGESTION
+"We might document the assumptions beside the forecast.",SUGGESTION
+"It could help to show an example of a completed request.",SUGGESTION
+"Could we try a two day grace period for late submissions?",SUGGESTION
+"I would consider adding a language preference to the profile.",SUGGESTION
+"A second reviewer may reduce accidental approvals.",SUGGESTION
+"One possible improvement is to include the source date.",SUGGESTION
+"Maybe the help link should appear before the form fields.",SUGGESTION
+"We could use a short survey to learn why users leave.",SUGGESTION
+"The interface might benefit from a clearer progress indicator.",SUGGESTION
+"A rotating facilitator could give more people a chance to lead.",SUGGESTION
+"We should think about offering the guide in large print.",SUGGESTION
+"The support queue was quiet during the holiday period.",DISCUSSION
+"I noticed that the latest report uses a different date range.",DISCUSSION
+"Our offices have different procedures for visitor badges.",DISCUSSION
+"The customer mentioned that the confirmation email arrived late.",DISCUSSION
+"There are three open issues in the billing dashboard.",DISCUSSION
+"The last release included changes to the search page.",DISCUSSION
+"We have been discussing the vendor's service history.",DISCUSSION
+"The survey responses varied across the four regions.",DISCUSSION
+"The training room has a projector and twelve seats.",DISCUSSION
+"Yesterday's outage affected the reporting service for about an hour.",DISCUSSION
+"The new dashboard displays account status and renewal dates.",DISCUSSION
+"Several people joined the call from the field office.",DISCUSSION
+"The current draft contains a section on data retention.",DISCUSSION
+"The warehouse received two shipments this morning.",DISCUSSION
+"The research team presented last quarter's interview findings.",DISCUSSION
+"Most comments focused on navigation and page loading time.",DISCUSSION
+"The support team handles requests in several languages.",DISCUSSION
+"The contract describes the standard response window.",DISCUSSION
+"We saw a brief increase in traffic after the announcement.",DISCUSSION
+"The client shared background about their existing workflow.",DISCUSSION
+"The mobile app is available in the usual app stores.",DISCUSSION
+"There was a question about how the historical totals are calculated.",DISCUSSION
+"The meeting covered staffing levels for the summer months.",DISCUSSION
+"The previous form had separate fields for city and postal code.",DISCUSSION
+"A few users reported that the page looked different on tablets.",DISCUSSION
+"The finance update included figures from both subsidiaries.",DISCUSSION
+"Current response times are lower than they were in January.",DISCUSSION
+"The team reviewed notes from the customer interviews.",DISCUSSION
+"The supplier's catalog includes several replacement parts.",DISCUSSION
+"Some requests arrive through email while others come by phone.",DISCUSSION
+"The weather delayed deliveries to the northern locations.",DISCUSSION
+"The presentation showed how the process changed over time.",DISCUSSION
+"The office has a separate network for guest devices.",DISCUSSION
+"The feedback form is linked from the account page.",DISCUSSION
+"We heard about a similar issue from another department.",DISCUSSION
+"The project has been active since the beginning of the year.",DISCUSSION
+"The report compares weekday activity with weekend activity.",DISCUSSION
+"The records include both current and archived customers.",DISCUSSION
+"The call started with a recap of the previous discussion.",DISCUSSION
+"The regional teams described different peak periods.",DISCUSSION

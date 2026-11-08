@@ -1,0 +1,11 @@
+spacy>=3.7,<4.0
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.26
+dateparser>=1.2
+rapidfuzz>=3.0
+fastapi>=0.110
+uvicorn[standard]>=0.27
+
+# Development/test dependency
+httpx>=0.27
